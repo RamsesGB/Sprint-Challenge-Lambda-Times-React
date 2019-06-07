@@ -12,7 +12,6 @@ export default class Content extends Component {
       selected: 'all',
       tabs: [],
       cards: [],
-      filtered: []
     };
   }
 
